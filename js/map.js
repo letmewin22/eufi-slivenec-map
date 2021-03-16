@@ -29,7 +29,7 @@ function EufiSlivenecMain_InitMap() {
 
   const marker = new google.maps.Marker({
     position: centerR,
-    icon: 'http://127.0.0.1:5500/img/slivinec.png',
+    icon: 'http://127.0.0.1:5500/img/slivinec.png', // need update
     map,
   })
 
